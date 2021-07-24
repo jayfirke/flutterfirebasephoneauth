@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "530592263835",
+    "project_id": "login-app-93641",
+    "storage_bucket": "login-app-93641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530592263835:android:e86eacaea1b2c19c9b203e",
+        "android_client_info": {
+          "package_name": "com.firke.loginapp.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530592263835-q12h9r7c6g9c9rcp5947r3bv0n241uhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firke.loginapp.login_app",
+            "certificate_hash": "e50415d2fb497119fb5ba0e7f1e60f1371e27ae1"
+          }
+        },
+        {
+          "client_id": "530592263835-o185n71f7hfmrna4bu1986ggik7cbjh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIvE68fM4P-dSijpv_CO0cbTyZqyz58Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530592263835-o185n71f7hfmrna4bu1986ggik7cbjh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530592263835-6r7tu6kpvolp3ar6mllsfutlad9u2lai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firke.loginapp.loginApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
